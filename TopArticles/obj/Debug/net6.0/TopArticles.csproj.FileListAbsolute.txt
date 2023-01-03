@@ -1,0 +1,15 @@
+C:\Users\tavin\source\repos\TopArticles\TopArticles\bin\Debug\net6.0\TopArticles.exe
+C:\Users\tavin\source\repos\TopArticles\TopArticles\bin\Debug\net6.0\TopArticles.deps.json
+C:\Users\tavin\source\repos\TopArticles\TopArticles\bin\Debug\net6.0\TopArticles.runtimeconfig.json
+C:\Users\tavin\source\repos\TopArticles\TopArticles\bin\Debug\net6.0\TopArticles.dll
+C:\Users\tavin\source\repos\TopArticles\TopArticles\bin\Debug\net6.0\TopArticles.pdb
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.csproj.AssemblyReference.cache
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.AssemblyInfoInputs.cache
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.AssemblyInfo.cs
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.csproj.CoreCompileInputs.cache
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.dll
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\refint\TopArticles.dll
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.pdb
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\TopArticles.genruntimeconfig.cache
+C:\Users\tavin\source\repos\TopArticles\TopArticles\obj\Debug\net6.0\ref\TopArticles.dll
